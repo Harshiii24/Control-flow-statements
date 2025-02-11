@@ -1,3 +1,6 @@
+/*First calculate the length of digit if the length of digit is odd then convert all the even digits from the number into odd
+and if the digit is odd keep it as it is and vice versa if the length of number is even*/
+
 import java.util.Scanner;
 class DigitLen 
 {
